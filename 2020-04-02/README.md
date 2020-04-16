@@ -4,8 +4,8 @@
 
 | 序号 | 姓名 | 机构 | 主题 |
 | ---- | ---- | ----|-----|
-|1| 吕永强 | 华声云科技 | 下一代智慧舆情技术展望|
-|2| 杨帆 | 林猫科技 | 基于深度学习的野生动物识别 |
+|1| 吕永强 | 华声云科技 | [下一代智慧舆情技术展望](Documents/20200402.吕永强.下一代智慧舆情预警技术展望.pptx)|
+|2| 杨帆 | 林猫科技 | [基于深度学习的野生动物识别](https://www.bilibili.com/video/BV1Ug4y1b7hS?from=search&seid=4750154552516209193) |
 |3| 翟瑞聪 | 电力行业人工智能从业者 | [人工智能在输电线路航采数据中的应用](Documents/人工智能在输电线路航采数据中的应用_20200402.pdf) |
 |4| 李超 | 新蛋科技 | [基于深度学习的表格识别](Documents/TGIF李超基于深度学习表格识别.pptx)|
 |5| 刘全 | 中科院 | [GAN核心生成逻辑源代码剖析](https://github.com/AIDepartment/TGIF/blob/master/2020-03-26/Document/Generative_Adversarial_Network.py)|
